@@ -16,10 +16,9 @@
   </a>
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav01101111&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustav01101111&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<img align="center" width="500" src="https://i.imgur.com/Dxai41v.gif" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustav01101111&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)  <img  align="center" width="500" src="https://i.imgur.com/Dxai41v.gif" />
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustav01101111&show_icons=true&theme=gotham&locale=pt-br&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) --->
+
 <!---
 gustav01101111/gustav01101111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
