@@ -1,7 +1,9 @@
 <h1 align="center">Gustavo Isaías</h1>
 
+<p>“Sentimos que, por fim, a fantasia, esta inesgotável fantasia, dá sinal de estar cansada, esgotada numa permanente tensão, porque amadurecemos e começamos a deixar para trás os nossos antigos ideais: estes desmoronam-se em bocados e desfazem-se em pó, e, se não existe outra vida, é preciso construí-la a partir desses mesmos fragmentos. Contudo, a alma pede e deseja outra coisa! Em vão o sonhador busca no meio dos seus velhos sonhos, como entre a cinza, à procura de uma ténue centelha para reavivar a fantasia, para inflamar um fogo novo no seu coração arrefecido e ressuscitar nele tudo o que dantes lhe era tão caro, que lhe fazia ferver o sangue e lhe tocava a alma, que lhe fazia chegar lágrimas aos olhos, iludindo-o maravilhosamente.”</p>
+
+<h3 align="center">Contacts</h3>
 <p align="center">
-  <h3 align="center">Contacts</h3>
   <a href="#" target="blank"><img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="etovaz.web@gmail.com" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/everton-vaz-181b8017a/" height="30" width="40" /></a>
   <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/etovaz" height="30" width="40" /></a>
