@@ -16,7 +16,7 @@
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,git,postgres,powerbi" />
+    <img src="https://skillicons.dev/icons?i=c,py,git,postgres,mysql," />
   </a>
 </p>
 
